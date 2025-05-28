@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\bin\Debug\KayıpEvcilHayvanTakip.exe.config
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\bin\Debug\KayıpEvcilHayvanTakip.exe
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\bin\Debug\KayıpEvcilHayvanTakip.pdb
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\obj\Debug\KayıpEvcilHayvanTakip.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\obj\Debug\KayıpEvcilHayvanTakip.Form1.resources
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\obj\Debug\KayıpEvcilHayvanTakip.Properties.Resources.resources
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\obj\Debug\KayıpEvcilHayvanTakip.csproj.GenerateResource.cache
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\obj\Debug\KayıpEvcilHayvanTakip.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\obj\Debug\KayıpEvcilHayvanTakip.exe
+C:\Users\user\source\repos\KayıpEvcilHayvanTakip\KayıpEvcilHayvanTakip\obj\Debug\KayıpEvcilHayvanTakip.pdb
